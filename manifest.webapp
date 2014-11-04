@@ -1,0 +1,14 @@
+{
+  "name": "Pitstop",
+  "description": "Find places to park your car",
+  "launch_path": "/index.html",
+  "icons": {
+    "1500": "/images/icon.png"
+  },
+  "developer": {
+    "name": "Jaydev Ajit Kuymar",
+    "url": "https://github.com/jdev005/"
+  },
+  "default_locale": "en",
+  "type":"web"
+}
